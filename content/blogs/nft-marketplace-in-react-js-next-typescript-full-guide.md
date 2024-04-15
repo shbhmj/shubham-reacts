@@ -2,8 +2,8 @@
 title: NFT Marketplace in React, Typescript & Solidity - Full Guide
 description: Learn how to use React / Next JS, Solidity, and Pinata(IPFS) to create NFT marketplace on Ethereum. All In Typescript.
 author: Shubham Jha
-authorImage: https://thrangra.sirv.com/Ethereum_blue_light-small.jpg
-coverImage: https://thrangra.sirv.com/Ethereum_blue_light-small.jpg
+authorImage: https://shbhmj.sirv.com/blog/Ethereum_blue_light-small.jpeg
+coverImage: https://shbhmj.sirv.com/blog/Ethereum_blue_light-small.jpeg
 date: "2022-06-25"
 ---
 

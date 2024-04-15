@@ -2,8 +2,8 @@
 title: Rust & WebAssembly with JS (TS) - The Practical Guide
 description: Learn how to code in Rust! Compile the code to WebAssembly, prepare JS/TS frontend and finish the course by creating the practical Snake game that can run in any browser.
 author: Shubham Jha
-authorImage: https://thrangra.sirv.com/Rust_small.jpg
-coverImage: https://thrangra.sirv.com/Rust_small.jpg
+authorImage: https://shbhmj.sirv.com/blog/Rust_small.jpeg
+coverImage: https://shbhmj.sirv.com/blog/Rust_small.jpeg
 date: "2022-03-25"
 ---
 

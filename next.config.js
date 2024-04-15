@@ -5,7 +5,7 @@ const nextConfig = {
   },
   images: {
     dangerouslyAllowSVG: true,
-    domains: ["images.unsplash.com", "thrangra.sirv.com"],
+    domains: ["images.unsplash.com", "shbhmj.sirv.com"],
   },
   reactStrictMode: true,
   swcMinify: true,
